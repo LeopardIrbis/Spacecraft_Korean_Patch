@@ -6,6 +6,7 @@
 - Existing bad cache output such as `::이름::`, `::개수::`, `::항목::`, and `::가격::` is restored from the source placeholder when building the patch.
 - `verify_patch_pak` now fails if the generated XML contains non-ASCII runtime placeholders.
 - Current generated XML has `bad_runtime_placeholders = 0`.
+- `Debt Quarter` is now translated as `채무 구역`, and `Quarter Manager Kyle Merzov` is now translated as `구역 관리자 Kyle Merzov`.
 
 ## Remaining High-Priority Translation QA
 

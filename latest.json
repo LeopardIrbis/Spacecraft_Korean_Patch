@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "download_url": "https://github.com/LeopardIrbis/Spacecraft_Korean_Patch/raw/main/SpaceCraft_Korean_Patch_Setup.exe",
-  "notes": "업데이트 체크 주소를 전용 GitHub 저장소로 이전하고, 한글 placeholder 복원 및 폰트 패치를 포함했습니다.",
-  "sha256": "AE8129DC28A83CB2CB39DB35F9BD08454F3C0328F5FF37C2A70EDA6C698A8555"
+  "notes": "Debt Quarter/Quarter Manager 오역을 채무 구역/구역 관리자로 수정했습니다.",
+  "sha256": "981DE931BE4B0ECCD1AE0403293487073BA571AB947CB3000FF9C131AB29A60B"
 }

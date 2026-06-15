@@ -24,5 +24,5 @@ The installer checks this repository's `latest.json` on startup. When a newer pa
 
 ## Current Version
 
-- Version: `1.1.1`
-- SHA256: `AE8129DC28A83CB2CB39DB35F9BD08454F3C0328F5FF37C2A70EDA6C698A8555`
+- Version: `1.1.2`
+- SHA256: `981DE931BE4B0ECCD1AE0403293487073BA571AB947CB3000FF9C131AB29A60B`
