@@ -1,9 +1,9 @@
-## SpaceCraft Korean Patch 1.1.2
+## SpaceCraft Korean Patch 1.1.3
 
-- `Debt Quarter` 오역을 `채무 구역`으로 수정했습니다.
-- `Quarter Manager Kyle Merzov` 오역을 `구역 관리자 Kyle Merzov`로 수정했습니다.
+- 언어 선택 화면에서 러시아어/중국어가 `���`로 깨지던 문제를 수정했습니다.
+- 설치 프로그램을 실행하면 `한글 패치 설치`와 `한글 패치 삭제`를 선택할 수 있습니다.
 - 런타임 placeholder 복원과 한글 폰트 패치가 포함되어 있습니다.
 
 SHA256:
 
-`981DE931BE4B0ECCD1AE0403293487073BA571AB947CB3000FF9C131AB29A60B`
+`F48860D32173C6C61B3ADED2DC5BFE910B789ACA7E456CC9211E965BC1535803`
