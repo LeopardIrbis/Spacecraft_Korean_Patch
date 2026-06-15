@@ -4,7 +4,7 @@ SpaceCraft Korean Patch is a one-click Korean localization installer for the Ste
 
 ## Install
 
-1. Download `SpaceCraft_Korean_Patch_Setup.exe`.
+1. Download `SpaceCraft_Korean_Patch_Setup.exe` from the latest GitHub Release.
 2. Run the installer.
 3. If the game folder is not detected automatically, select the SpaceCraft install folder.
 4. Restart the game and select Chinese/中文 in the language option.
