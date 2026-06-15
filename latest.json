@@ -1,6 +1,6 @@
 {
-  "version": "1.1.4",
+  "version": "1.1.5",
   "download_url": "https://github.com/LeopardIrbis/Spacecraft_Korean_Patch/releases/latest/download/SpaceCraft_Korean_Patch_Setup.exe",
-  "notes": "QuadrantManager 대화와 최신 UI 문구 누락 번역을 보강하고, 줄바꿈 문단 중복/중국어 잔존 문제를 수정했습니다.",
-  "sha256": "6B75A3378FF0DA604AE596B934F12E04D16E456E4DBCB46E35E65E0DC06B8660"
+  "notes": "한글 패치 삭제 시 이전 한글패치 백업이 복원되던 문제를 수정하고, Mining Bureau 계열 용어를 채굴국으로 통일했습니다.",
+  "sha256": "890890DEA32CFCC0E608325ADC141BFBE187B60512329BB497937AC67B98BCA8"
 }
