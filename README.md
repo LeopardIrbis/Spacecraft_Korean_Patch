@@ -1,28 +1,28 @@
-# SpaceCraft Korean Patch
+# SpaceCraft 한글 패치
 
-SpaceCraft Korean Patch is a one-click Korean localization installer for the Steam game SpaceCraft.
+Steam판 SpaceCraft의 중국어 언어 슬롯을 한글로 바꿔 주는 원클릭 한글 패치입니다.
 
-## Install
+## 설치
 
-1. Download `SpaceCraft_Korean_Patch_Setup.exe` from the latest GitHub Release.
-2. Run the installer and choose install or uninstall.
-3. If the game folder is not detected automatically, select the SpaceCraft install folder.
-4. Restart the game and select Chinese/中文 in the language option.
+1. 최신 GitHub Release에서 `SpaceCraft_Korean_Patch_Setup.exe`를 받습니다.
+2. 실행 후 `한글 패치 설치` 또는 `한글 패치 삭제`를 선택합니다.
+3. 설치 폴더가 자동으로 잡히지 않으면 SpaceCraft 설치 폴더를 직접 선택합니다.
+4. 게임을 다시 실행한 뒤 언어 옵션에서 중국어/中文을 선택합니다.
 
-The patch uses the Chinese language slot and replaces it with Korean.
+이 패치는 원본 `res.pak`을 수정하지 않고, 별도 오버레이 파일로 적용됩니다.
 
-## Included Files
+## 포함 파일
 
 - `res1.pak`
 - `res/extra/lang/export_zh.xml`
 - `res/ui/fonts/noto_sans_cjk_regular.fnt`
 - `res/ui/fonts/noto_sans_cjk_regular.png`
 
-## Updates
+## 업데이트
 
-The installer checks this repository's `latest.json` on startup. When a newer patch is published, it opens the download URL.
+설치 프로그램은 실행 시 이 저장소의 `latest.json`을 확인합니다. 새 버전이 있으면 다운로드한 뒤 실행합니다.
 
-## Current Version
+## 현재 버전
 
-- Version: `1.1.7`
-- SHA256: `59575BAAECA19416949039179763A4EC08477F6C4DCE09A0EB98F2A84164F4B2`
+- Version: `1.1.8`
+- SHA256: `6BC07E5DD3C240F531FCAAC50A193C83B538A0F0D61EF9E8BD8FCFC68054C93F`

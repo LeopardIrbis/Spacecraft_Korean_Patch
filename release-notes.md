@@ -1,8 +1,9 @@
-## SpaceCraft Korean Patch 1.1.7
+# v1.1.8
 
-- 구매/판매 확인창에 `???`가 표시되던 문제를 수정했습니다.
-- 상점 안내, 구역 이전 안내, 배치/해체 경고 등 일부 UI 문구의 물음표 잔존 번역을 정리했습니다.
-- 빌드 검증에 `???` 잔존 검사를 추가해 같은 문제가 다시 배포되지 않도록 했습니다.
+- 행성간 물류 [1/2] 퀘스트 설명문에서 `?`로 보이던 물 수집 안내를 수정했습니다.
+- `<small>...</small>` 설명문 태그가 깨지거나 조사가 태그 밖으로 밀려나는 유형을 빌드 검증에서 자동 차단합니다.
+- 관련 퀘스트 설명문 일부를 자연스럽게 다듬고, 채굴국 용어 통일 검사를 유지했습니다.
 
-SHA256:
-`59575BAAECA19416949039179763A4EC08477F6C4DCE09A0EB98F2A84164F4B2`
+검증:
+- `python -m unittest discover -s korean_patch\tests -v` 통과
+- `python korean_patch\spacecraft_korean_patch.py --verify --source-pak res1.pak` 통과
