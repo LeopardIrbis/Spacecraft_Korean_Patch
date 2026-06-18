@@ -1,6 +1,6 @@
 {
-  "version": "1.1.8",
+  "version": "1.1.9",
   "download_url": "https://github.com/LeopardIrbis/Spacecraft_Korean_Patch/releases/latest/download/SpaceCraft_Korean_Patch_Setup.exe",
-  "notes": "행성간 물류 퀘스트 설명문에 ?가 뜨던 small 태그 깨짐을 수정하고, 같은 유형의 설명문/조사 깨짐을 빌드 검증에서 자동 차단합니다.",
-  "sha256": "6BC07E5DD3C240F531FCAAC50A193C83B538A0F0D61EF9E8BD8FCFC68054C93F"
+  "notes": "예전 작업에서 남은 깨진 export_ko.xml을 설치 시 자동으로 백업 처리해 NPC 대화 선택지가 안 보일 수 있는 충돌을 정리합니다.",
+  "sha256": "011874441626A2949C563466F277B9BB6EA4C74D43DA6D5DC6A8C8F9903567E0"
 }
