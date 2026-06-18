@@ -1,6 +1,6 @@
 {
-  "version": "1.1.9",
+  "version": "1.1.10",
   "download_url": "https://github.com/LeopardIrbis/Spacecraft_Korean_Patch/releases/latest/download/SpaceCraft_Korean_Patch_Setup.exe",
-  "notes": "예전 작업에서 남은 깨진 export_ko.xml을 설치 시 자동으로 백업 처리해 NPC 대화 선택지가 안 보일 수 있는 충돌을 정리합니다.",
-  "sha256": "011874441626A2949C563466F277B9BB6EA4C74D43DA6D5DC6A8C8F9903567E0"
+  "notes": "공장 상태값 Running/Idle이 달리기/게으른으로 보이던 오역을 가동 중/대기 중으로 수정했습니다.",
+  "sha256": "9D006AF51092F7A108464A0965BA9EB48BDE9EDF67790773EB0B5BEE1F9B8045"
 }
