@@ -1,6 +1,6 @@
 {
-  "version": "1.1.10",
+  "version": "1.2.0",
   "download_url": "https://github.com/LeopardIrbis/Spacecraft_Korean_Patch/releases/latest/download/SpaceCraft_Korean_Patch_Setup.exe",
   "notes": "공장 상태값 Running/Idle이 달리기/게으른으로 보이던 오역을 가동 중/대기 중으로 수정했습니다.",
-  "sha256": "9D006AF51092F7A108464A0965BA9EB48BDE9EDF67790773EB0B5BEE1F9B8045"
+  "sha256": "57E8551B00BECB40D87EA00CF38872BECDDBB820581CB5C04A5C3BC0C8F1CC04"
 }
