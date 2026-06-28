@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "download_url": "https://github.com/LeopardIrbis/Spacecraft_Korean_Patch/releases/latest/download/SpaceCraft_Korean_Patch_Setup.exe",
-  "notes": "게임 데모 오프라인 모드 안내 문구를 한글로 고정하고, 재빌드 시 중국어가 남지 않도록 검증을 강화했습니다. 표시 번역은 1.2.0과 동일합니다.",
-  "sha256": "7A62E3DA285DD98157AE8A4AABA27DA787B64B7905AA8E5C5EB8B71BF34E00CE"
+  "notes": "조선소/함선 서비스 메뉴에서 영어로 표시되던 함선 수리 안내·결과 문구를 한글화했습니다.",
+  "sha256": "05FF78A58594F24C25568CA0343601651CAF7BB4421BEFF17BF32D992C553123"
 }
